@@ -1,0 +1,3 @@
+CS101,Programming Basics,3,Dr. Smith,FALL,Computer Science
+MATH201,Linear Algebra,4,Dr. Evans,SPRING,Mathematics
+BIOL303,Molecular Biology,5,Dr. Chen,FALL,Biology

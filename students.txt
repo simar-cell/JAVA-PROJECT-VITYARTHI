@@ -1,0 +1,3 @@
+S101,Alice Johnson,alice.j@uni.edu
+S102,Bob Williams,bob.w@uni.edu
+S103,Charlie Brown,charlie.b@uni.edu
